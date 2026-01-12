@@ -1,0 +1,8 @@
+{
+  "name": "Nexora Web Agency",
+  "description": "Sito web professionale per Nexora, agenzia specializzata in web design e soluzioni AI avanzate per il business.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
